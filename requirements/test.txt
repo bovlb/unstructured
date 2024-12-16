@@ -14,7 +14,7 @@ appdirs==1.4.4
     # via label-studio-sdk
 argcomplete==3.5.2
     # via datamodel-code-generator
-attrs==24.2.0
+attrs==24.3.0
     # via
     #   jsonschema
     #   referencing
