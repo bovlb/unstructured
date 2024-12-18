@@ -1,8 +1,9 @@
-## 0.16.12-dev4
+## 0.16.12-dev5
 
 ### Enhancements
 
 - **Prepare auto-partitioning for pluggable partitioners**. Move toward a uniform partitioner call signature so a custom or override partitioner can be registered without code changes.
+- **Add NDJSON file type support**
 
 ### Features
 
